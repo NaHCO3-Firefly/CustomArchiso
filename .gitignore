@@ -1,0 +1,5 @@
+out/
+/tmp/
+session
+tee
+.claude/
