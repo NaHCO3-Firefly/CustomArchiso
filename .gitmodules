@@ -1,0 +1,3 @@
+[submodule "airootfs/usr/share/elvarainstaller"]
+	path = airootfs/usr/share/elvarainstaller
+	url = https://github.com/EveGlowLuna/ElvaraInstaller.git

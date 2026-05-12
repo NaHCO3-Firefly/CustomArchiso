@@ -1,1 +1,0 @@
-/usr/share/calamares/branding/default/show.qml

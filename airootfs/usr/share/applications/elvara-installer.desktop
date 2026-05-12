@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Elvara Installer
+Name[zh_CN]=Elvara 安装器
+Comment=Install ElvaraOS to your computer
+Comment[zh_CN]=安装 ElvaraOS 到您的计算机
+Exec=python3 /usr/share/elvarainstaller/main.py
+Icon=/usr/share/elvarainstaller/elvara.png
+Terminal=false
+Type=Application
+Categories=System;
