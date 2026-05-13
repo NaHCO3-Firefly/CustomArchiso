@@ -1,5 +1,4 @@
 out/
 /tmp/
-session
-tee
+.session
 .claude/
